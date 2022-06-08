@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=method3check
+comment1.params=p2\ exportItem1\ exportItem2
+comment1.target=void\ listExportersTwoProducts(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment2.params=my_export2\ my_export3
+comment2.target=void\ tester(java.lang.String,\ java.lang.String)
+numComments=3

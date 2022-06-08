@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=checkagain
+comment1.params=p
+comment1.target=org.apache.commons.csv.CSVRecord\ coldestHourInFile(org.apache.commons.csv.CSVParser)
+comment2.params=max_temp\ r
+comment2.target=org.apache.commons.csv.CSVRecord\ compare2values(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment3.params=max_temp\ r\ fnet
+comment3.target=java.lang.String\ compare2valuesoffiles(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord,\ java.lang.String)
+comment4.params=
+comment4.target=void\ testcoldestHourInFile()
+comment5.params=
+comment5.target=java.lang.String\ fileWithColdestTemperature()
+comment6.params=
+comment6.target=void\ testfileWithColdestTemperature()
+numComments=7

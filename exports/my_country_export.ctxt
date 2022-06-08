@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=my_country_export
+comment1.params=pp\ exp1
+comment1.target=int\ getcountry(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment2.params=par\ coun
+comment2.target=void\ countryInfo(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment3.params=p2\ exportItem1\ exportItem2
+comment3.target=void\ listExportersTwoProducts(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment4.params=p3\ am
+comment4.target=void\ bigExporters(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment4.text=\ THE\ BELOW\ FUNCTION\ CHECKS\ THE\ LENGTH\ OF\ THE\ STRINGS\ TO\ CHECK\ FOR\ GREATNESS\ IN\ \ VALUE-WHICH\ IS\ ACTUALLY\ FLAWED\r\n\ FOR\ EXAMPLE,\ "$41000999"\="$3100999"\ IN\ THIS\ METHOD\r\n\ IT\ ONLY\ GIVES\ THE\ CORRECT\ OUTPUT\ FOR\ VALUES\ WHICH\ HAVE\ MORE\ DIGITS\ THAN\ THE\ OTHER\ STRING\r\n
+comment5.params=my_coun\ my_export\ my_export2\ my_export3\ amount
+comment5.target=void\ tester(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6
